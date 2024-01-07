@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\okanu\Documents\sfml\sfml-project2\sfml-project2\main.cpp(89,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\okanu\Documents\sfml\sfml-project2\sfml-project2\main.cpp(90,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\okanu\Documents\sfml\sfml-project2\sfml-project2\main.cpp(96,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\okanu\Documents\sfml\sfml-project2\sfml-project2\main.cpp(97,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  sfml-project2.vcxproj -> C:\Users\okanu\Documents\sfml\sfml-project2\x64\Debug\sfml-project2.exe
